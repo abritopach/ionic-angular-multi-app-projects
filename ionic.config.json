@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "appOne": {
+      "name": "appOne",
+      "integrations": {
+        "cordova": {}
+      },
+      "type": "angular",
+      "root": "projects/appOne"
+    },
+    "appTwo": {
+      "name": "appTwo",
+      "integrations": {},
+      "type": "angular",
+      "root": "projects/appTwo"
+    }
+  }
+}
